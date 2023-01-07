@@ -6,6 +6,6 @@
 
 - StockRank-SwiftUI-Navigation-ViewModel : Added like function by linking StateObject and ObservedObject.
 
-
+StockRank-SwiftUI-Navigation-ViewModel Video
 https://user-images.githubusercontent.com/120432007/211140489-0b2a738b-aaf8-4afd-a28d-572176ffa13d.mov
 
