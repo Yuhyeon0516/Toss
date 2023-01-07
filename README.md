@@ -4,4 +4,8 @@
 
 - StockRank-SwiftUI-Navigation : Changed to display Detail View by linking SwiftUI's Navigation View.
 
-<img width="80%" src="https://user-images.githubusercontent.com/120432007/209133609-6cdf79c8-98e1-48e3-917b-f3316fedbdbc.mp4"/>
+- StockRank-SwiftUI-Navigation-ViewModel : Added like function by linking StateObject and ObservedObject.
+
+
+https://user-images.githubusercontent.com/120432007/211140489-0b2a738b-aaf8-4afd-a28d-572176ffa13d.mov
+
