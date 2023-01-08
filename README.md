@@ -1,6 +1,6 @@
-- StockRank : I followed an app called Toss in Korea with swift UIKit.
+- StockRank : I followed Toss's stockrank with swift UIKit.
 
-- StockRank-SwiftUI : I tried to recreate the symbolroller with SwiftUI
+- StockRank-SwiftUI : I tried to recreate the StockRank with SwiftUI
 
 - StockRank-SwiftUI-Navigation : Changed to display Detail View by linking SwiftUI's Navigation View.
 
